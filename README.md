@@ -6,9 +6,10 @@ The ANN section contains the tools to do data science: How to load, sparse and s
 This section also covers the basic tool of Machine learning for linear regression using SciKit Library.
 
 ## Convolutional Neural Network
-The CNN section cover the use of CNN to sparse pictures and extract features that helps the Neural Network to understand parterns. The CNN parts cover the use the Pool layer and
+The CNN section cover the use of CNN to sparse pictures and extract features that helps the Neural Network to understand parterns. This it quite intersting if you are working with images.
 
 ## Classical Q learning
-
+Classical Q learning section is the example used to apply and understand Q learning. It helps to define the problematic and choose the best option according to. Reinforcement Learning is a tool and does not suits every need. For example simple problems can be easly acheived using classic approach of Q learning if the Q space is limited to a reasonable abmount values. In this example we solved an easy example of Gym games using this technique.
 
 ## Deep Q Learning
+Not done yet
