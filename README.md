@@ -1,5 +1,7 @@
 # Reinforcement Learning
 This repository is use to keep track of my advancement in my 0Reinforcement Learning course. It also contains the basics of Deep Neural Networks such as the use of Convolutionnal Neural Network and Artificial Neural Network using Tensorflow 2.0. Feel free to use the code as you wish :D
+![alt text](https://github.com/Tim-HW/Reinforcement_Learning/blob/main/TensorFlow_logo.svg.png)
+
 
 ## Articifial Neural Network
 The ANN section contains the tools to do data science: How to load, sparse and segment database, create neurons, choose activation function, and process the back propagation. The example are done using a large database of houses to sell in order to predict price according to multiple features such as the location, the surface...
