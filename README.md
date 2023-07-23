@@ -1,4 +1,4 @@
-# Reinforcement_Learning
+# Reinforcement Learning
 This repository is use to keep track of my advancement in my 0Reinforcement Learning course. It also contains the basics of Deep Neural Networks such as the use of Convolutionnal Neural Network and Artificial Neural Network using Tensorflow 2.0. Feel free to use the code as you wish :D
 
 ## Articifial Neural Network
